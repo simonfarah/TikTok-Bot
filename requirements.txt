@@ -1,1 +1,5 @@
-selenium==4.11.0
+pillow==10.2.0
+pytesseract==0.3.10
+selenium==4.17.2
+opencv-python==4.9.0.80
+scikit-image==0.22.0
